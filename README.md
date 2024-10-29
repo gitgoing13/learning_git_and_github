@@ -22,4 +22,5 @@ Numbered list
 4. cucumber
 
 Embedded image
-[ALT text](https://en.wikipedia.org/wiki/Cheese#/media/File:Cheese_platter.jpg)
+
+![ALT text](C:\Users\flemm\Documents\img1.jpg)
