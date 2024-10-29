@@ -22,4 +22,4 @@ Numbered list
 4. cucumber
 
 Embedded image:
-[My image](https://unsplash.com/photos/a-painting-of-apples-hanging-from-a-tree-branch-YrxU-GwcyFE)
+![My image](https://unsplash.com/photos/a-painting-of-apples-hanging-from-a-tree-branch-YrxU-GwcyFE)
