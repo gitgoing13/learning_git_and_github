@@ -21,5 +21,5 @@ Numbered list
 3. tomato
 4. cucumber
 
-Embedded image:
-![My image](https://unsplash.com/photos/a-painting-of-apples-hanging-from-a-tree-branch-YrxU-GwcyFE)
+Embedded image
+[ALT text](https://en.wikipedia.org/wiki/Cheese#/media/File:Cheese_platter.jpg)
