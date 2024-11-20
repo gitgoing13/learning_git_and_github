@@ -4,9 +4,9 @@ Version control is an essential skill for developers to master, and Git is by fa
 
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 
-## New in this README
+## New in this README file
 
-Minor local README changes were merged with remote changes on GitHub.
+Minor local README changes have been merged with remote changes on GitHub.
 
 ## Planned changes in the next version
 
