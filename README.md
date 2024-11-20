@@ -4,6 +4,27 @@ Version control is an essential skill for developers to master, and Git is by fa
 
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 
+Adding a small table:
+| Application | Features | Date |
+|:------------|:--------:|:----:|
+| Git | This and that | 10/29 |
+| GitHub | Other | 10/29 |
+
+Bulleted list:
+- A and B and C
+- D and E and F
+- G, H, I, J
+
+Numbered list
+1. Cheese
+2. egg
+3. tomato
+4. cucumber
+
+Embedded image
+
+![ALT text](C:\Users\flemm\Documents\img1.jpg)
+
 This is a brief update to my README.
 1. option 1.
 1. option 2.
