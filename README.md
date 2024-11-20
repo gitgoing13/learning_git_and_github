@@ -1,4 +1,4 @@
-# Learning Git and GitHub
+# Learning Git and GitHub course
 
 Version control is an essential skill for developers to master, and Git is by far the most popular version control system on the web. In this fast-paced course, author Ray Villalobos shows you how to install Git and use the fundamental commands you need to work with Git projects: moving files, managing logs, and working with branches.
 
@@ -8,7 +8,7 @@ Plus, you'll learn how to work with the popular GitHub website to explore existi
 
 Minor local README changes were merged with remote changes on GitHub.
 
-## Changed planned in the next version
+## Planned changes in the next version
 
 The following changes are being worked on in this README version:
 * Two new paragraphs describing recent and upcoming changes
