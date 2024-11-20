@@ -14,4 +14,4 @@ The following changes are being worked on in this README version:
 * Two new paragraphs describing recent and upcoming changes
 * A note for information
 
-**Note:** Regular updates are planned or this README.
+**Note:** Regular updates are planned for this README.
